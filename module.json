@@ -1,0 +1,11 @@
+[
+    {
+        "package": "ProxyMethod",
+        "id": "proxy",
+        "version": 4,
+        "path": "bin/proxy/proxy",
+        "extension": {
+            "ext1": "123"
+        }
+    }
+]
